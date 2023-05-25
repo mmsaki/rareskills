@@ -1,3 +1,6 @@
 [submodule "gas-puzzles"]
 	path = gas-puzzles
 	url = https://github.com/mmsaki/gas-puzzles.git
+[submodule "1-week/yellow-paper-summary"]
+	path = 1-week/yellow-paper-summary
+	url = https://github.com/mmsaki/yellow-paper-summary.git
