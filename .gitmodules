@@ -1,0 +1,3 @@
+[submodule "gas-puzzles-fork"]
+	path = gas-puzzles-fork
+	url = ./gas-puzzles-fork
