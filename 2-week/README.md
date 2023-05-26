@@ -11,12 +11,12 @@
 
 - 3 days Complete all 10 Puzzles [EVM Puzzles](https://github.com/fvictorio/evm-puzzles)
 
-  - [ ] Puzzle 1
-  - [ ] Puzzle 2
-  - [ ] Puzzle 3
-  - [ ] Puzzle 4
-  - [ ] Puzzle 5
-  - [ ] Puzzle 6
+  - [x] Puzzle 1
+  - [x] Puzzle 2
+  - [x] Puzzle 3
+  - [x] Puzzle 4
+  - [x] Puzzle 5
+  - [x] Puzzle 6
   - [ ] Puzzle 7
   - [ ] Puzzle 8
   - [ ] Puzzle 9
