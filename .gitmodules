@@ -10,3 +10,9 @@
 [submodule "2-week/gas-puzzles"]
 	path = 2-week/gas-puzzles
 	url = https://github.com/mmsaki/gas-puzzles.git
+[submodule "3-week/more-evm-puzzles"]
+	path = 3-week/more-evm-puzzles
+	url = https://github.com/mmsaki/more-evm-puzzles.git
+[submodule "3-week/huff-puzzles"]
+	path = 3-week/huff-puzzles
+	url = https://github.com/mmsaki/huff-puzzles.git
