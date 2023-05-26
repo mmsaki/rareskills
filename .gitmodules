@@ -4,3 +4,6 @@
 [submodule "1-week/yellow-paper-summary"]
 	path = 1-week/yellow-paper-summary
 	url = https://github.com/mmsaki/yellow-paper-summary.git
+[submodule "1-week/execution-specs"]
+	path = 1-week/execution-specs
+	url = https://github.com/mmsaki/execution-specs.git
