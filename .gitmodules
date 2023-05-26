@@ -1,6 +1,3 @@
-[submodule "gas-puzzles"]
-	path = gas-puzzles
-	url = https://github.com/mmsaki/gas-puzzles.git
 [submodule "1-week/yellow-paper-summary"]
 	path = 1-week/yellow-paper-summary
 	url = https://github.com/mmsaki/yellow-paper-summary.git
@@ -10,3 +7,6 @@
 [submodule "2-week/evm-puzzles"]
 	path = 2-week/evm-puzzles
 	url = https://github.com/mmsaki/evm-puzzles.git
+[submodule "2-week/gas-puzzles"]
+	path = 2-week/gas-puzzles
+	url = https://github.com/mmsaki/gas-puzzles.git
