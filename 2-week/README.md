@@ -17,10 +17,10 @@
   - [x] Puzzle 4
   - [x] Puzzle 5
   - [x] Puzzle 6
-  - [ ] Puzzle 7
-  - [ ] Puzzle 8
-  - [ ] Puzzle 9
-  - [ ] Puzzle 10
+  - [x] Puzzle 7
+  - [x] Puzzle 8
+  - [x] Puzzle 9
+  - [x] Puzzle 10
 
 - 2 Days [Ethernaut](https://ethernaut.openzeppelin.com)
 
@@ -28,13 +28,13 @@
   - [ ] Ethernaut 13 - Gatekeeper one
   - [ ] Ethernaut 18 - Magic Number
 
-- 1 Day [Gas Puzzles](https://github.com/RareSkills/gas-puzzles)
-  - [ ] Array Sum
-  - [ ] Require
+- 1 Day [Gas Puzzles](https://github.com/mmsaki/gas-puzzles)
+  - [x] Array Sum
+  - [x] Require
 
 Hints: [The ultimate 100+ Point Checklist before Sending Your Smart Contract for Audit](https://betterprogramming.pub/the-ultimate-100-point-checklist-before-sending-your-smart-contract-for-audit-af9a5b5d95d0)
 
 ## Complete
 
 - [ ] Push code to github
-- [ ] Schedule 1-1 fo the week. If you finish early, move on to the next week.
+- [x] Schedule 1-1 fo the week. If you finish early, move on to the next week.
