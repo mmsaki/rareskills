@@ -1,20 +1,24 @@
 [submodule "1-week/yellow-paper-summary"]
 	path = 1-week/yellow-paper-summary
 	url = https://github.com/mmsaki/yellow-paper-summary.git
+	branch = main
 [submodule "1-week/execution-specs"]
 	path = 1-week/execution-specs
 	url = https://github.com/mmsaki/execution-specs.git
+	branch = main
 [submodule "2-week/evm-puzzles"]
 	path = 2-week/evm-puzzles
 	url = https://github.com/mmsaki/evm-puzzles.git
+	branch = main
 [submodule "2-week/gas-puzzles"]
 	path = 2-week/gas-puzzles
 	url = https://github.com/mmsaki/gas-puzzles.git
+	branch = main
 [submodule "3-week/more-evm-puzzles"]
 	path = 3-week/more-evm-puzzles
 	url = https://github.com/mmsaki/more-evm-puzzles.git
+	branch = main
 [submodule "3-week/huff-puzzles"]
 	path = 3-week/huff-puzzles
 	url = https://github.com/mmsaki/huff-puzzles.git
-[submodule "./yellow-paper-summary"]
 	branch = main
