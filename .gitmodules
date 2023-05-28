@@ -5,7 +5,7 @@
 [submodule "1-week/execution-specs"]
 	path = 1-week/execution-specs
 	url = https://github.com/mmsaki/execution-specs.git
-	branch = main
+	branch = master
 [submodule "2-week/evm-puzzles"]
 	path = 2-week/evm-puzzles
 	url = https://github.com/mmsaki/evm-puzzles.git
