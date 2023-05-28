@@ -20,5 +20,15 @@ Why study the yellow paper:
   - [ ] Chapter 8 Message Call
   - [ ] Chapter 9 Execution Model
   - [ ] Chapter 10 Blocktree to Blockchain
+  - [ ] Appendix B: Recursive Length Prefix
+  - [ ] Appendix C: Hex encoding
+  - [ ] Appendix D: Modified Merkle Patricia Trie
+  - [ ] Appendix E: Precompiled Contracts
+  - [ ] Appendix F: Signing Transactions
+  - [ ] Appendix G: Fee Schedule
+  - [ ] Appendix H: Virtual Machine Specification
+  - [ ] Appendix I: Genesis Block
+  - [ ] Appendix J: Eth Hash
+  - [ ] Appendix K: Anomalies on the main network
 
 - [x] Alternatively you can look at [the python specs](https://github.com/ethereum/execution-specs/tree/master/src/ethereum/shanghai/vm)
