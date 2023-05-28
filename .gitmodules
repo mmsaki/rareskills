@@ -16,3 +16,5 @@
 [submodule "3-week/huff-puzzles"]
 	path = 3-week/huff-puzzles
 	url = https://github.com/mmsaki/huff-puzzles.git
+[submodule "./yellow-paper-summary"]
+	branch = main
