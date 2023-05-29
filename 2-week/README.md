@@ -24,7 +24,7 @@
 
 - 2 Days [Ethernaut](https://ethernaut.openzeppelin.com)
 
-  - [ ] Ethernaut 12 - Privacy
+  - [x] Ethernaut 12 - Privacy
   - [ ] Ethernaut 13 - Gatekeeper one
   - [ ] Ethernaut 18 - Magic Number
 
@@ -36,5 +36,5 @@ Hints: [The ultimate 100+ Point Checklist before Sending Your Smart Contract for
 
 ## Complete
 
-- [ ] Push code to github
+- [x] Push code to github
 - [x] Schedule 1-1 fo the week. If you finish early, move on to the next week.
