@@ -25,7 +25,7 @@ Why study the yellow paper:
   - [ ] Appendix D: Modified Merkle Patricia Trie
   - [ ] Appendix E: Precompiled Contracts
   - [ ] Appendix F: Signing Transactions
-  - [ ] Appendix G: Fee Schedule
+  - [x] Appendix G: Fee Schedule
   - [ ] Appendix H: Virtual Machine Specification
   - [ ] Appendix I: Genesis Block
   - [ ] Appendix J: Eth Hash
