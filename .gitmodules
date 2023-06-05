@@ -28,3 +28,6 @@
 [submodule "2-week/fake-number"]
 	path = 2-week/fake-number
 	url = https://github.com/mmsaki/fake-number.git
+[submodule "3-week/Huff-Console"]
+	path = 3-week/Huff-Console
+	url = https://github.com/mmsaki/Huff-Console.git
