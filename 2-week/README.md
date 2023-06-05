@@ -1,11 +1,12 @@
 # week 2
 
-## Study
+## Videos / Study
 
 - [Advanced Solidity: Gas Optimization - Jeffrey Scholz](https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs/?referralCode=C4684D6872713525E349)
 - [What is an Ethereum Virtual Machine](https://www.youtube.com/watch?v=GPoze5RmDVU)
 - [Ethereum EVM in Depth - Jordan McKinney](https://www.youtube.com/watch?v=kCswGz9naZg)
 - [EVM Opcodes for Gas Optimizations - Patrick](https://www.youtube.com/watch?v=M8_4THWJkHQ)
+- [How constructor works](https://github.com/mmsaki/fake-number.git)
 
 ## Practice
 

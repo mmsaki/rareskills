@@ -22,3 +22,9 @@
 	path = 3-week/huff-puzzles
 	url = https://github.com/mmsaki/huff-puzzles.git
 	branch = main
+[submodule "woke"]
+	path = woke
+	url = https://github.com/Ackee-Blockchain/woke.git
+[submodule "2-week/fake-number"]
+	path = 2-week/fake-number
+	url = https://github.com/mmsaki/fake-number.git
