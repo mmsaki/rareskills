@@ -11,7 +11,7 @@ Just like last week but saved the harder exercises for this week so you are more
 - [ ] Ethernaut 19 - Alien Codex
 - [ ] Do one of the following
   - (do all 10) [More EVM Puzzles](https://github.com/mmsaki/more-evm-puzzles)
-    - [ ] Puzzle 1
+    - [x] Puzzle 1
     - [ ] Puzzle 2
     - [ ] Puzzle 3
     - [ ] Puzzle 4
@@ -22,27 +22,27 @@ Just like last week but saved the harder exercises for this week so you are more
     - [ ] Puzzle 9
     - [ ] Puzzle 10
   - Recommended - [Huff Puzzles](https://github.com/mmsaki/huff-puzzles.git)
-    - [ ] Add1.huff
-    - [ ] BasicBank.huff
-    - [ ] CallValue.huff
-    - [ ] CalldataLength.huff
-    - [ ] Create.huff
-    - [ ] Distributor.huff
-    - [ ] Donations.huff
-    - [ ] Emitter.huff
-    - [ ] FooBar.huff
-    - [ ] Keccak.huff
-    - [ ] MaxOfArray.huff
-    - [ ] Multiply.huff
-    - [ ] MyEtherBalance.huff
+    - [x] Return1.huff
+    - [x] CallValue.huff
+    - [x] CalldataLength.huff
+    - [x] Add1.huff
+    - [x] MyEtherBalance.huff
+    - [x] Multiply.huff
     - [ ] NonPayable.huff
-    - [ ] Return1.huff
+    - [ ] FooBar.huff
+    - [ ] SimpleStore.huff
     - [ ] RevertCustom.huff
     - [ ] RevertString.huff
-    - [ ] SendEther.huff
-    - [ ] SimpleStore.huff
-    - [ ] SimulateArray.huff
     - [ ] SumArray.huff
+    - [ ] Keccak.huff
+    - [ ] MaxOfArray.huff
+    - [ ] Create.huff
+    - [ ] Emitter.huff
+    - [ ] Donations.huff
+    - [ ] SendEther.huff
+    - [ ] BasicBank.huff
+    - [ ] Distributor.huff
+    - [ ] SimulateArray.huff
 
 Huff is assembly language for Ethereum.
 Recommendation: Do Huff.
