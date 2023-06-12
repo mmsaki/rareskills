@@ -1,12 +1,12 @@
 // SPDX-License-Identifier: AGPL-3.0-only
 pragma solidity 0.8.15;
 
-import {DSTestPlus} from "./utils/DSTestPlus.sol";
-import {DSInvariantTest} from "./utils/DSInvariantTest.sol";
+import {DSTestPlus} from "@solmate/test/utils/DSTestPlus.sol";
+import {DSInvariantTest} from "@solmate/test/utils/DSInvariantTest.sol";
 
-import {MockERC1155} from "./utils/mocks/MockERC1155.sol";
+import {MockERC1155} from "@solmate/test/utils/mocks/MockERC1155.sol";
 
-import {ERC1155TokenReceiver} from "../tokens/ERC1155.sol";
+import {ERC1155TokenReceiver} from "@solmate/tokens/ERC1155.sol";
 
 contract ERC1155Recipient is ERC1155TokenReceiver {
     address public operator;
