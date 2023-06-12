@@ -31,3 +31,6 @@
 [submodule "3-week/Huff-Console"]
 	path = 3-week/Huff-Console
 	url = https://github.com/mmsaki/Huff-Console.git
+[submodule "4-5-week/foundry-yul"]
+	path = 4-5-week/foundry-yul
+	url = https://github.com/mmsaki/foundry-yul.git
