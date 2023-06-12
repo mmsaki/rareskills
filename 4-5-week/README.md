@@ -17,12 +17,32 @@ Read [solc-docs](https://leather-bulb-be5.notion.site/Solc-Docs-Notes-a51237131c
 
 - [Advanced Solidity: Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly/?referralCode=C46DE4EE2C4BE54D4D33)
 
-  - [ ] Introduction
-  - [ ] Memory
-  - [ ] Inter-contract Calls
-  - [ ] Contract Without Solidity
+  - [x] 2. Types
+  - [x] 3. Basic Operations
+  - [x] 4. Storage Slots
+  - [x] 5. Storage Offsets and Bitshifting
+  - [ ] 6. Storage of Arrays and Mappings
+  - [ ] 7. Memory Operations
+  - [x] 8. How Solidity Uses Memory
+  - [ ] 9. Dangers of Memory Misuse
+  - [ ] 10. Returns, Require, Tuples, Keccak256
+  - [ ] 11. Logs and Events
+  - [ ] 12. Calldata
+  - [ ] 13. Calling Other Contracts
+  - [ ] 14. Dynamic Length Arguments
+  - [ ] 15. Transfer of Value
+  - [ ] 16. Receiving Contract Calls
+  - [ ] 18. Etherscan Issues
+  - [ ] 19. Storing Data in Contract Bytecode
+  - [ ] 20. ERC20 Example Part 1
+  - [ ] 21. ERC20 Example Part 2
+  - [ ] 22. ERC20 Example Part 3
+  - [ ] 23. ERC20 Example Part 4
+  - [ ] 24. ERC20 Example Part 5
+  - [ ] 25. ERC20 Example Part 6
+  - [ ] 26. What We Didn't Cover
 
-- [ ] Develope ERC1155 in Yul
+- [ ] [Develope ERC1155 in Yul](./ERC1155yul/)
   > This is the hardest assignement of the course
 
 To develop yul contracts, we strongly recommend using foundry. We've seen it save a week of work compared to hardhat. He is a starting example:
