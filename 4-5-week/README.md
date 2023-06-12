@@ -1,4 +1,19 @@
-# week 4, week 5, week 6
+# Week 4-5
+
+Read [solc-docs](https://leather-bulb-be5.notion.site/Solc-Docs-Notes-a51237131c6f4311975aca1bac08a501)
+
+## Assignments:
+
+> Read the following chapters in solidity documentation
+
+- [ ] [Type](https://docs.soliditylang.org/en/latest/types.html)
+- [ ] [Units and Globally Available Variables](https://docs.soliditylang.org/en/latest/units-and-global-variables.html)
+- [ ] [Expressions and Control Structures](https://docs.soliditylang.org/en/latest/control-structures.html)
+- [ ] [Contracts](https://docs.soliditylang.org/en/latest/contracts.html#)
+
+> For each non-trivial or tricky thing, think if you can imagine a bug caused by that behavior. (The link paths are for v0.8.20, if it doesn’t work, replace latest by v0.8.20, or find the the location of the latest chapter.)
+
+## week 4, week 5, week 6
 
 - [Advanced Solidity: Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly/?referralCode=C46DE4EE2C4BE54D4D33)
 
@@ -31,9 +46,7 @@ you should emit the appropriate events and support the functions of the spec
 - [ ] event `ApprovalForAll(address indexed _owner, address indexed _operator, bool _approved);`
 - [ ] event `URI(atring _value, uint256 indexed _id);`
 
-- [ ] `function safeTransferFrom(address _from, address _to, uint256 _id, uint256 _value, bytes calldata _data,) external`
-- [ ] `function safeBatchTransferFrom(address _from, address _to, uint256[] calldata _ids, uint256[] calldata _values, bytes calldata _data) external;`
-
+- [ ] `ffunction safeTransferFrom(address _from, address _to, uint256 _id, uint256 _value, bytes calldata _data) external`
 - [ ] `function balanceOf(address _owner, uint256 _id) external view returns (uint256)`
 - [ ] `function balanceOfBatch(address[] calldata _owners, uint256[] calldata _ids) external view returns (uint256[] memory);`
 - [ ] `function setApprovalForAll(address _operator, bool _approved) external;`
