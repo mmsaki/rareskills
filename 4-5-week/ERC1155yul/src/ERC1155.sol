@@ -1,14 +1,16 @@
-// SPDX-License-Identifier: MIT
-pragma solidity 0.8.15;
+// SPDX-License-Identifier: UNLICENSED
+pragma solidity ^0.8.0;
 
-interface IERC1155 {
+import {IERC1155} from "@openzeppelin/interfaces/IERC1155.sol";
+
+contract ERC1155 {
     function safeTransferFrom(
         address _from,
         address _to,
         uint256 _id,
         uint256 _value,
         bytes calldata _data
-    ) external;
+    ) external {}
 
     function safeBatchTransferFrom(
         address _from,
@@ -16,22 +18,32 @@ interface IERC1155 {
         uint256[] calldata _ids,
         uint256[] calldata _values,
         bytes calldata _data
-    ) external;
+    ) external {}
 
     function balanceOf(
         address _owner,
         uint256 _id
-    ) external view returns (uint256);
+    ) external view returns (uint256) {
+        return 1;
+    }
 
     function balanceOfBatch(
         address[] calldata _owners,
         uint256[] calldata _ids
-    ) external view returns (uint256[] memory);
+    ) external view returns (uint256[] memory) {
+        return _ids;
+    }
 
-    function setApprovalForAll(address _operator, bool _approved) external;
+    function setApprovalForAll(address _operator, bool _approved) external {
+        assembly {
+
+        }
+    }
 
     function isApprovedForAll(
         address _owner,
         address _operator
-    ) external view returns (bool);
+    ) external view returns (bool) {
+        return false;
+    }
 }
