@@ -40,3 +40,6 @@
 [submodule "4-5-week/ERC1155yul/lib/solmate"]
 	path = 4-5-week/ERC1155yul/lib/solmate
 	url = https://github.com/transmissions11/solmate
+[submodule "4-5-week/ERC1155yul/lib/openzeppelin-contracts"]
+	path = 4-5-week/ERC1155yul/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
