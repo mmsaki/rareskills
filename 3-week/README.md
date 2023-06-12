@@ -50,5 +50,5 @@ It's a language growing in popularity and has a devoted following
 
 ## Complete
 
-- [ ] Push your code to github
+- [x] Push your code to github
 - [ ] Set up 1-1 with instructor
