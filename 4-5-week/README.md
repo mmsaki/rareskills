@@ -7,10 +7,10 @@
   - [ ] Inter-contract Calls
   - [ ] Contract Without Solidity
 
-- [ ] Develop ERC1155 in Yul
+- [ ] Develope ERC1155 in Yul
   > This is the hardest assignement of the course
 
-To develop yul contracts, we strongly recommend using founcry. We've seen it save a week of work compared to hardhat. He is a starting example:
+To develop yul contracts, we strongly recommend using foundry. We've seen it save a week of work compared to hardhat. He is a starting example:
 
 - [Foundry Yul](https://github.com/CodeForcer/foundry-yul.git)
 
@@ -24,7 +24,7 @@ You may find this useful: https://twitter.com/zachobront/status/1649514017122144
 
 ## Specifications
 
-you shoukd emit the appropriate events and support the functions of the spec
+you should emit the appropriate events and support the functions of the spec
 
 - [ ] event `TransferSingle(address indexed _operator, address indexed _from, address indexed _to, uint256 _id, uint256 _value);`
 - [ ] event `TransferBatch(address indexed _operator, address indexed _from, address indexed _to, uint256[] _ids, uint256[] _values);`
