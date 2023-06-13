@@ -6,8 +6,8 @@ Read [solc-docs](https://leather-bulb-be5.notion.site/Solc-Docs-Notes-a51237131c
 
 > Read the following chapters in solidity documentation
 
-- [ ] [Type](https://docs.soliditylang.org/en/latest/types.html)
-- [ ] [Units and Globally Available Variables](https://docs.soliditylang.org/en/latest/units-and-global-variables.html)
+- [x] [Type](https://docs.soliditylang.org/en/latest/types.html)
+- [x] [Units and Globally Available Variables](https://docs.soliditylang.org/en/latest/units-and-global-variables.html)
 - [ ] [Expressions and Control Structures](https://docs.soliditylang.org/en/latest/control-structures.html)
 - [ ] [Contracts](https://docs.soliditylang.org/en/latest/contracts.html#)
 
@@ -45,9 +45,9 @@ Read [solc-docs](https://leather-bulb-be5.notion.site/Solc-Docs-Notes-a51237131c
 - [ ] [Develope ERC1155 in Yul](./ERC1155yul/)
   > This is the hardest assignement of the course
 
-To develop yul contracts, we strongly recommend using foundry. We've seen it save a week of work compared to hardhat. He is a starting example:
+To develop yul contracts, we strongly recommend using foundry. We've seen it save a week of work compared to hardhat. Here is a starting example:
 
-- [Foundry Yul](https://github.com/CodeForcer/foundry-yul.git)
+- [x] [Foundry Yul](./ERC1155yul/)
 
 **Important**
 
@@ -78,17 +78,17 @@ you should emit the appropriate events and support the functions of the spec
 
 **first week**
 
-- Write the test first. It's far easier to make sure things work as expected in Yul by writing the tests first.
+- [x] Write the test first. It's far easier to make sure things work as expected in Yul by writing the tests first.
 
 **second week**
 
-- Parsing memory arrays from the ABI will be difficult. Do that first.
+- [ ] Parsing memory arrays from the ABI will be difficult. Do that first.
 
 **third week**
 
-- The string URI will be challenging. Set aside one week for this. The way Ethereum encodes strings is non-intuitive, Bring it all together. Write the easy functions and pat yourself on the back!
+- [ ] The string URI will be challenging. Set aside one week for this. The way Ethereum encodes strings is non-intuitive, Bring it all together. Write the easy functions and pat yourself on the back!
 
 ## Complete
 
-- [ ] Push your code to github
+- [x] Push your code to github
 - [ ] Set up a 1-1 with your instructor
