@@ -1,9 +1,11 @@
 # rareskills
 
+> Course by Dominik Teiml
+
 ## Week 1
 
-- [x] [My notes for yellow paper](./1-week/yellow-paper-summary/)
-- [x] Watch yellow paper course [YPC](https://www.youtube.com/watch?v=e84V1MxRlYs) and read the [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf).
+- [x] [My notes for yellow paper](https://github.com/mmsaki/yellow-paper-summary/blob/e80821b27ae11324e60f5e82422a3d929cc7760d/yellow-paper-meek/main.pdf)
+- [x] Watch Dominik Teiml yellow paper course [YPC](https://www.youtube.com/watch?v=e84V1MxRlYs) and read the [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf).
 - [x] Chapter 1
 - [ ] Chapter 2
 - [x] Chapter 3
