@@ -71,7 +71,7 @@
 
   - [x] Ethernaut 12 - Privacy
   - [ ] Ethernaut 13 - Gatekeeper one
-  - [ ] Ethernaut 18 - Magic Number
+  - [x] Ethernaut 18 - Magic Number
 
 - 1 Day [Gas Puzzles](https://github.com/mmsaki/gas-puzzles)
   - [x] Array Sum

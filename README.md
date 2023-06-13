@@ -7,7 +7,7 @@
 - [x] [My notes for yellow paper](https://github.com/mmsaki/yellow-paper-summary/blob/main/yellow-paper-meek/main.pdf)
 - [x] Watch Dominik Teiml yellow paper course [YPC](https://www.youtube.com/watch?v=e84V1MxRlYs) and read the [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf).
 - [x] Chapter 1
-- [ ] Chapter 2
+- [x] Chapter 2
 - [x] Chapter 3
 - [x] Chapter 4 Blocks, State and Transactions
 - [x] Chapter 5 Gas and Payment
@@ -95,7 +95,7 @@
 
   - [x] Ethernaut 12 - Privacy
   - [ ] Ethernaut 13 - Gatekeeper one
-  - [ ] Ethernaut 18 - Magic Number
+  - [x] Ethernaut 18 - Magic Number
 
 - 1 Day [Gas Puzzles](https://github.com/mmsaki/gas-puzzles)
 
