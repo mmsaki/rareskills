@@ -89,7 +89,7 @@
     - [ ] Distributor.huff
     - [ ] SimulateArray.huff
 
-## Week 4
+## Week 4 - 5
 
 - [x] [Type](./4-5-week/types.md)
 - [x] [Units and Globally Available Variables](./4-5-week/Globals.md)
@@ -125,4 +125,4 @@
   - [ ] 25. ERC20 Example Part 6
   - [ ] 26. What We Didn't Cover
 
-## Week 5
+## Week 6
