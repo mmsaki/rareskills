@@ -6,7 +6,7 @@ Read [solc-docs](https://leather-bulb-be5.notion.site/Solc-Docs-Notes-a51237131c
 
 > Read the following chapters in solidity documentation
 
-- [x] [Type](https://docs.soliditylang.org/en/latest/types.html)
+- [x] [Types](https://docs.soliditylang.org/en/latest/Types.html)
 - [x] [Units and Globally Available Variables](https://docs.soliditylang.org/en/latest/units-and-global-variables.html)
 - [ ] [Expressions and Control Structures](https://docs.soliditylang.org/en/latest/control-structures.html)
 - [ ] [Contracts](https://docs.soliditylang.org/en/latest/contracts.html#)

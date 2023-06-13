@@ -140,7 +140,7 @@
 
 ## Week 4 - 5
 
-- [x] [Type](./4-5-week/Types.md)
+- [x] [Types](./4-5-week/Types.md)
 - [x] [Units and Globally Available Variables](./4-5-week/Globals.md)
 - [ ] [Expressions and Control Structures](./4-5-week/expressions.md)
 - [ ] [Contracts](./4-5-week/contracts.md)
