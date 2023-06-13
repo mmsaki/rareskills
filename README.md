@@ -78,16 +78,18 @@
   - [x] 44. Short Circuiting
   - [x] 45. Precomputing
 
-- [x] Puzzle 1
-- [x] Puzzle 2
-- [x] Puzzle 3
-- [x] Puzzle 4
-- [x] Puzzle 5
-- [x] Puzzle 6
-- [x] Puzzle 7
-- [x] Puzzle 8
-- [x] Puzzle 9
-- [x] Puzzle 10
+- 3 days Complete all 10 Puzzles [EVM Puzzles](https://github.com/fvictorio/evm-puzzles)
+
+  - [x] Puzzle 1
+  - [x] Puzzle 2
+  - [x] Puzzle 3
+  - [x] Puzzle 4
+  - [x] Puzzle 5
+  - [x] Puzzle 6
+  - [x] Puzzle 7
+  - [x] Puzzle 8
+  - [x] Puzzle 9
+  - [x] Puzzle 10
 
 - 2 Days [Ethernaut](https://ethernaut.openzeppelin.com)
 
