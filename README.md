@@ -4,7 +4,7 @@
 
 - [x] [My notes for yellow paper](./1-week/yellow-paper-summary/)
 - [x] Watch yellow paper course [YPC](https://www.youtube.com/watch?v=e84V1MxRlYs) and read the [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf).
-- [ ] Chapter 1
+- [x] Chapter 1
 - [ ] Chapter 2
 - [x] Chapter 3
 - [x] Chapter 4 Blocks, State and Transactions
@@ -54,8 +54,8 @@
 ## Week 3
 
 - [ ] Ethernaut 19 - Alien Codex
-- [ ] Do one of the following
-  - (do all 10) [More EVM Puzzles](https://github.com/mmsaki/more-evm-puzzles)
+- [ ] Do either [More EVM Puzzles](https://github.com/mmsaki/more-evm-puzzles) or [Huff Puzzles](https://github.com/mmsaki/huff-puzzles.git)
+  - More EVM Puzzles
     - [x] Puzzle 1
     - [ ] Puzzle 2
     - [ ] Puzzle 3
