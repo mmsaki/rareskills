@@ -43,3 +43,7 @@
 [submodule "4-5-week/ERC1155yul/lib/openzeppelin-contracts"]
 	path = 4-5-week/ERC1155yul/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "4-5-week/yul-and-assembly"]
+	path = 4-5-week/yul-and-assembly
+	url = https://github.com/mmsaki/yul-and-assembly.git
+	branch = main
