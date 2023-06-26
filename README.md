@@ -156,13 +156,13 @@
   - [x] 4. Storage Slots
   - [x] 5. Storage Offsets and Bitshifting
   - [x] 6. Storage of Arrays and Mappings
-  - [ ] 7. Memory Operations
+  - [x] 7. Memory Operations
   - [x] 8. How Solidity Uses Memory
-  - [ ] 9. Dangers of Memory Misuse
-  - [ ] 10. Returns, Require, Tuples, Keccak256
-  - [ ] 11. Logs and Events
-  - [ ] 12. Calldata
-  - [ ] 13. Calling Other Contracts
+  - [x] 9. Dangers of Memory Misuse
+  - [x] 10. Returns, Require, Tuples, Keccak256
+  - [x] 11. Logs and Events
+  - [x] 12. Calldata
+  - [x] 13. Calling Other Contracts
   - [ ] 14. Dynamic Length Arguments
   - [ ] 15. Transfer of Value
   - [ ] 16. Receiving Contract Calls
