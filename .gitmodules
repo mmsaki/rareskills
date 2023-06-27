@@ -25,24 +25,30 @@
 [submodule "woke"]
 	path = woke
 	url = https://github.com/Ackee-Blockchain/woke.git
+	branch = main
 [submodule "2-week/fake-number"]
 	path = 2-week/fake-number
 	url = https://github.com/mmsaki/fake-number.git
 [submodule "3-week/Huff-Console"]
 	path = 3-week/Huff-Console
 	url = https://github.com/mmsaki/Huff-Console.git
+	branch = main
 [submodule "4-5-week/foundry-yul"]
 	path = 4-5-week/foundry-yul
 	url = https://github.com/mmsaki/foundry-yul.git
+	branch = main
 [submodule "4-5-week/ERC1155yul/lib/forge-std"]
 	path = 4-5-week/ERC1155yul/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+	branch = main
 [submodule "4-5-week/ERC1155yul/lib/solmate"]
 	path = 4-5-week/ERC1155yul/lib/solmate
 	url = https://github.com/transmissions11/solmate
+	branch = main
 [submodule "4-5-week/ERC1155yul/lib/openzeppelin-contracts"]
 	path = 4-5-week/ERC1155yul/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+	branch = main
 [submodule "4-5-week/yul-and-assembly"]
 	path = 4-5-week/yul-and-assembly
 	url = https://github.com/mmsaki/yul-and-assembly.git
