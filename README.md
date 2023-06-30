@@ -163,8 +163,8 @@
   - [x] 11. Logs and Events
   - [x] 12. Calldata
   - [x] 13. Calling Other Contracts
-  - [ ] 14. Dynamic Length Arguments
-  - [ ] 15. Transfer of Value
+  - [x] 14. Dynamic Length Arguments
+  - [x] 15. Transfer of Value
   - [ ] 16. Receiving Contract Calls
   - [ ] 18. Etherscan Issues
   - [ ] 19. Storing Data in Contract Bytecode
