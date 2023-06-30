@@ -12,7 +12,7 @@ Just like last week but saved the harder exercises for this week so you are more
 - [ ] Do one of the following
   - (do all 10) [More EVM Puzzles](https://github.com/mmsaki/more-evm-puzzles)
     - [x] Puzzle 1
-    - [ ] Puzzle 2
+    - [x] Puzzle 2
     - [ ] Puzzle 3
     - [ ] Puzzle 4
     - [ ] Puzzle 5
