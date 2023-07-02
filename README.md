@@ -124,7 +124,7 @@
     - [x] Add1.huff
     - [x] MyEtherBalance.huff
     - [x] Multiply.huff
-    - [ ] NonPayable.huff
+    - [x] NonPayable.huff
     - [ ] FooBar.huff
     - [ ] SimpleStore.huff
     - [ ] RevertCustom.huff
