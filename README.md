@@ -128,8 +128,8 @@
     - [x] FooBar.huff
     - [x] SimpleStore.huff
     - [x] RevertCustom.huff
-    - [ ] RevertString.huff
-    - [ ] SumArray.huff
+    - [x] RevertString.huff
+    - [x] SumArray.huff
     - [ ] Keccak.huff
     - [ ] MaxOfArray.huff
     - [ ] Create.huff

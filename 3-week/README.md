@@ -32,8 +32,8 @@ Just like last week but saved the harder exercises for this week so you are more
     - [x] FooBar.huff
     - [x] SimpleStore.huff
     - [x] RevertCustom.huff
-    - [ ] RevertString.huff
-    - [ ] SumArray.huff
+    - [x] RevertString.huff
+    - [x] SumArray.huff
     - [ ] Keccak.huff
     - [ ] MaxOfArray.huff
     - [ ] Create.huff
