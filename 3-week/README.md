@@ -30,7 +30,7 @@ Just like last week but saved the harder exercises for this week so you are more
     - [x] Multiply.huff
     - [x] NonPayable.huff
     - [x] FooBar.huff
-    - [ ] SimpleStore.huff
+    - [x] SimpleStore.huff
     - [ ] RevertCustom.huff
     - [ ] RevertString.huff
     - [ ] SumArray.huff

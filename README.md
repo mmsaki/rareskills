@@ -126,7 +126,7 @@
     - [x] Multiply.huff
     - [x] NonPayable.huff
     - [x] FooBar.huff
-    - [ ] SimpleStore.huff
+    - [x] SimpleStore.huff
     - [ ] RevertCustom.huff
     - [ ] RevertString.huff
     - [ ] SumArray.huff
