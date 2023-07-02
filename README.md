@@ -127,7 +127,7 @@
     - [x] NonPayable.huff
     - [x] FooBar.huff
     - [x] SimpleStore.huff
-    - [ ] RevertCustom.huff
+    - [x] RevertCustom.huff
     - [ ] RevertString.huff
     - [ ] SumArray.huff
     - [ ] Keccak.huff
