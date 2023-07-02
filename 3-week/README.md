@@ -20,7 +20,7 @@ Just like last week but saved the harder exercises for this week so you are more
     - [x] Puzzle 7
     - [x] Puzzle 8
     - [x] Puzzle 9
-    - [ ] Puzzle 10
+    - [x] Puzzle 10
   - Recommended - [Huff Puzzles](https://github.com/mmsaki/huff-puzzles.git)
     - [x] Return1.huff
     - [x] CallValue.huff
