@@ -108,10 +108,10 @@
 - [ ] Do either [More EVM Puzzles](https://github.com/mmsaki/more-evm-puzzles) or [Huff Puzzles](https://github.com/mmsaki/huff-puzzles.git)
   - More EVM Puzzles
     - [x] Puzzle 1
-    - [ ] Puzzle 2
-    - [ ] Puzzle 3
-    - [ ] Puzzle 4
-    - [ ] Puzzle 5
+    - [x] Puzzle 2
+    - [x] Puzzle 3
+    - [x] Puzzle 4
+    - [x] Puzzle 5
     - [ ] Puzzle 6
     - [ ] Puzzle 7
     - [ ] Puzzle 8
