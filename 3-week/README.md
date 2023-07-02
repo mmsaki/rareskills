@@ -28,7 +28,7 @@ Just like last week but saved the harder exercises for this week so you are more
     - [x] Add1.huff
     - [x] MyEtherBalance.huff
     - [x] Multiply.huff
-    - [ ] NonPayable.huff
+    - [x] NonPayable.huff
     - [ ] FooBar.huff
     - [ ] SimpleStore.huff
     - [ ] RevertCustom.huff
