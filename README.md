@@ -114,7 +114,7 @@
     - [x] Puzzle 5
     - [x] Puzzle 6
     - [x] Puzzle 7
-    - [ ] Puzzle 8
+    - [x] Puzzle 8
     - [ ] Puzzle 9
     - [ ] Puzzle 10
   - Recommended - [Huff Puzzles](https://github.com/mmsaki/huff-puzzles.git)
