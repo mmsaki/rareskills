@@ -17,7 +17,7 @@ Just like last week but saved the harder exercises for this week so you are more
     - [x] Puzzle 4
     - [x] Puzzle 5
     - [x] Puzzle 6
-    - [ ] Puzzle 7
+    - [x] Puzzle 7
     - [ ] Puzzle 8
     - [ ] Puzzle 9
     - [ ] Puzzle 10
